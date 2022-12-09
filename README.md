@@ -1,1 +1,1 @@
-# shogi-opening-database
+# shogi-opening
