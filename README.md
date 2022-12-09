@@ -22,21 +22,15 @@
 1. 居飛車・振り飛車を明示しない。
 1. 矢倉を目指す[^yagura]。
 
-<details>
-<summary>
+<details><summary>
 
-## ☖3四歩
-</summary>
-
+## ☖3四歩</summary>
 1. 振り飛車の含みを持たせる。
 1. 横歩取りを目指す。
 
-<details>
-<summary>
+<details><summary>
 
-### ☗2六歩
-</summary>
-
+### ☗2六歩</summary>
 #### ☖8四歩☗2五歩☖8五歩
 ##### ☗7八金
 ###### ☖3二金☗2四歩☖同歩☗同飛
@@ -59,12 +53,9 @@
 ### ☗2二角成☖同銀☗4五角
 </details>
 
-<details>
-<summary>
+<details><summary>
 
-## ☖8四歩
-</summary>
-
+## ☖8四歩</summary>
 1. 居飛車を明示する。矢倉、角換わりを受けて立つ。
 
 ### ☗6八銀☖3四歩☗7七銀☖6二銀☗2六歩☖4二銀☗2五歩☖3三銀
@@ -87,12 +78,9 @@
 1. 2手目☖3二飛戦法を封じる[^r-32]。
 1. 引き角を目指す[^hikikaku]。
 
-<details>
-<summary>
+<details><summary>
 
-## ☖8四歩
-</summary>
-
+## ☖8四歩</summary>
 1. 居飛車を明示する。
 1. 相掛かりを受けて立つ。
 
@@ -113,12 +101,9 @@
 ### ☗7六歩
 </details>
 
-<details>
-<summary>
+<details><summary>
 
-## ☖3四歩
-</summary>
-
+## ☖3四歩</summary>
 1. 振り飛車の含みを持たせる。
 1. 横歩取りを目指す。
 1. 相掛かりを拒否する。
