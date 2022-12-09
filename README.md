@@ -128,7 +128,7 @@
 </details>
 
 # 出典
-* D. Silverほか「[A general reinforcement learning algorithm that masters chess, shogi, and Go through self-play](https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/alphazero-shedding-new-light-on-chess-shogi-and-go/alphazero_preprint.pdf)」、2018。[DeepMindのブログ記事](https://www.deepmind.com/blog/alphazero-shedding-new-light-on-chess-shogi-and-go)。
+* Silver, D.ほか（2018）「[A general reinforcement learning algorithm that masters chess, shogi, and Go through self-play](https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/alphazero-shedding-new-light-on-chess-shogi-and-go/alphazero_preprint.pdf)」、[DeepMindのブログ記事](https://www.deepmind.com/blog/alphazero-shedding-new-light-on-chess-shogi-and-go)。
 
 [^AlphaZero]: Silverほか（2018）、p. 23。
 
